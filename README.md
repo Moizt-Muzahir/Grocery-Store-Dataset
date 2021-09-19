@@ -7,4 +7,4 @@ LabelImg has been used to label the dataset.
 
 Currently only 2 categories are in this dataset with one product of each category. Feel free to contribute and add comments. 
 
-For further queries contact me at aleezehusman2000@gmail.com
+📧 For further queries contact me at aleezehusman2000@gmail.com
