@@ -1,0 +1,26 @@
+<annotation>
+	<folder>FYP Dataset</folder>
+	<filename>cereal_(5).png</filename>
+	<path>E:\Aleezeh_University\FYP\FYP Dataset\cereal_(5).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kellogg's Corn Flakes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>397</ymin>
+			<xmax>2606</xmax>
+			<ymax>4028</ymax>
+		</bndbox>
+	</object>
+</annotation>
