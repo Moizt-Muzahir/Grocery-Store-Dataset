@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Old</folder>
+	<filename>Pepsi (168).jpg</filename>
+	<path>D:\Old\Pepsi (168).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pepsi 1.5 Ltr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2092</xmin>
+			<ymin>695</ymin>
+			<xmax>3998</xmax>
+			<ymax>1599</ymax>
+		</bndbox>
+	</object>
+</annotation>
