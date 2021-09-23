@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>OlpersMilk_(11).jpg</filename>
+	<path>E:\UNIVERSITY\7th Semester\FYP-I\Dataset\OlpersMilk_(11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>OlpersMilk 1 Ltr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1416</xmin>
+			<ymin>1033</ymin>
+			<xmax>3816</xmax>
+			<ymax>2337</ymax>
+		</bndbox>
+	</object>
+</annotation>
